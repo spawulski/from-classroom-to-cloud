@@ -36,6 +36,11 @@ A satirical but insightful article that highlights common anti-patterns in engin
 4. Start building projects and contributing to open source
 5. Network with professionals in your area of interest
 
+## 📧 Contact
+
+**Email:** [spawulski@lotlinx.com](mailto:spawulski@lotlinx.com)
+**LinkedIn:** [linkedin.com/in/s-m-p/](https://www.linkedin.com/in/s-m-p/)
+
 ---
 
 *This repository serves as a companion to my conference talk. Feel free to star, fork, or contribute additional resources that would be valuable for students entering the tech industry.*
